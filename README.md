@@ -2,3 +2,4 @@
 - 👀 I’m interested in mathematics, programming, science, literature, music, art, and mathematical art.
 - 🌱 I’m currently learning Javascript, HTML/CSS, Python
 - 📷 Instagram: @prishainabox
+- 🌱 Khan Academy: khanacademy.org/profile/kaid_861909786767545381407237
