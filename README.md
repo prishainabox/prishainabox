@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prishainabox
 - ✨ I’m interested in mathematics, programming, science, literature, music, art, and mathematical art.
-- 🌻 I’m currently learning Javascript, HTML/CSS, Python
+- 🌻 I’m currently learning Javascript, HTML/CSS, Python, GLSL
 - 📷 Instagram: [@prishainabox](https://www.instagram.com/prishainabox/)
 - 🌱 Khan Academy: [Profile](khanacademy.org/profile/kaid_861909786767545381407237)
